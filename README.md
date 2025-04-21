@@ -1,2 +1,7 @@
-# Creditcard-dashborad-PBI
-This Power BI dashboard provides an interactive and comprehensive analysis of credit card usage, customer behavior, and transaction trends. Key performance indicators (KPIs) such as total spend, average transaction value, customer segmentation, and credit utilization rates are visually represented to support data-driven decision-making.
+# Credit-Card-Financial-Power-BI-Project
+
+#Credit  Card  Transaction  Report
+![image](https://github.com/darshitbhatt123/Credit-Card-Financial-Power-BI-Project/assets/164491533/4060e82d-562e-4add-ba2a-53454957db7d)
+
+#Credit  Card  Customer  Report
+![image](https://github.com/darshitbhatt123/Credit-Card-Financial-Power-BI-Project/assets/164491533/1185836e-ff6b-42cc-9aef-8fc6ebc7575c)
